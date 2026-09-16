@@ -1,6 +1,10 @@
-# Charging Stations for Electric Vehicles in The U.S. and Territories with Visuals By Power BI
+<center>
+    
+# Charging Stations for Electric Vehicles in The U.S. and Territories<br> 
 
-### An interactive Power BI analysis of EV charging infrastructure across the United States and U.S. territories, with a focus on Nissan EV charging compatibility.
+</center>
+
+An interactive Power BI analysis of EV charging infrastructure across the United States and U.S. territories, with a focus on Nissan EV charging compatibility.
 
 ## Overview
 
